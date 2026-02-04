@@ -44,6 +44,7 @@
 - [Anish Dusad](https://github.com/anishDusad)
 - SkMave
 - [Sandip Patel)](https://github.com/slotify-dev)
+- [Mason Tsai](https://github.com/Mason0167)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
 - [Aoife Mulvenna](https://github.com/aoife-mulvennna)
